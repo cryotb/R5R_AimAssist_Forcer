@@ -1,5 +1,6 @@
 # R5R_AimAssist_Forcer
 Allows to set custom AA strength on controller aim assist in R5Reloaded. Only supports season 3 build of apex!
+Check out my blog post related to it: https://drof.one/r5reloaded-custom-aim-assist-strength/
 
 # Setup Video
 https://www.youtube.com/watch?v=9pVbLUoPn-k
